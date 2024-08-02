@@ -1,0 +1,49 @@
+All are in accordance to the order of file number, by prompt. 
+Mac Analysis Prompts:
+        "Generate a list of 50 MAC addresses in the format XX:XX:XX:XX:XX:XX." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Create a list of valid MAC addresses for network devices." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Provide 50 sample MAC addresses used in Wi-Fi networks." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Provide 50 MAC addresses that are all 1 digit off, at random. None of the 50 MAC addresses provided should be valid." [ FILE SHOULD BE MARKED WITH 0 VALID CASES ]
+        "Create a list of 50 MAC addresses, 25 valid and 25 invalid." [ FILE SHOULD BE MARKED WITH 25 VALID, 25 INVALID ]
+Passwords:
+        "Create 50 passwords that follow best security practices." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Provide 50 sample passwords with at least one uppercase letter, one lowercase letter, one number, and one symbol." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Generate a list of 50 strong passwords." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Create 50 invalid passwords on the requirements that a valid password needs one symbol, one uppercase letter, and should be more than 8 characters long." [ FILE SHOULD BE MARKED WITH 0 VALID CASES ]
+        "Provide 25 valid example passwords and 25 invalid example passwords for online accounts." [ FILE SHOULD BE MARKED WITH 25 VALID, 25 INVALID ]
+IP Addresses:
+        "Generate a list of 50 IPv4 addresses." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Create a list of 50 valid IP addresses for network configuration." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Provide 50 sample IP addresses for a home network." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "List 50 random invalid IP addresses." [ FILE SHOULD BE MARKED WITH 0 VALID CASES ]
+        "Generate 50 IP addresses, 25 valid and 25 invalid in separate lists." [ FILE SHOULD BE MARKED WITH 25 VALID, 25 INVALID ]
+Emails: 
+        "Generate a list of 50 email addresses." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Provide 50 example email addresses for a corporate environment." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "List 50 email addresses with different top-level domains (TLDs)." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Generate 50 invalid email addresses." [ FILE SHOULD BE MARKED WITH 0 VALID CASES ]
+        "List 50 email addresses with 25 valid ones, and 25 invalid in separate lists." [ FILE SHOULD BE MARKED WITH 25 VALID, 25 INVALID ]
+Bank Account Numbers:
+        "Generate a list of 50 bank account numbers." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Create a list of sample bank account numbers for testing purposes." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "List 50 random bank account numbers in standard format." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Create a list of 50 invalid bank account numbers." [ FILE SHOULD BE MARKED WITH 0 VALID CASES ]
+        "List 50 bank account numbers with 25 valid ones, and 25 invalid in separate lists." [ FILE SHOULD BE MARKED WITH 25 VALID, 25 INVALID ]
+Social Security Numbers:
+        "Generate a list of 50 social security numbers." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Create a list of valid social security numbers for testing purposes." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Provide 50 example social security numbers for a government application." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "List 50 random invalid social security numbers." [ FILE SHOULD BE MARKED WITH 0 VALID CASES ]
+        "List 50 social security numbers with 25 valid ones, and 25 invalid in separate lists." [ FILE SHOULD BE MARKED WITH 25 VALID, 25 INVALID ]
+Financial Records:
+        "Generate a list of 50 financial information records." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Create a list of sample financial records for testing purposes." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Provide 50 example financial records for a financial application." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "List 50 random invalid financial records." [ FILE SHOULD BE MARKED WITH 0 VALID CASES ]
+        "List 50 example financial records with 25 valid ones, and 25 invalid in separate lists." [ FILE SHOULD BE MARKED WITH 25 VALID, 25 INVALID ]
+Health Care Data:
+        "Generate a list of 50 health care data records." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Create a list of sample health care records for testing purposes." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Generate 50 health care records for use in a medical database." [ FILE SHOULD BE MARKED WITH 50 VALID CASES ]
+        "Create a list of 50 invalid health care records." [ FILE SHOULD BE MARKED WITH 0 VALID CASES ]
+        "List 50 health care records with 25 valid ones, and 25 invalid in separate lists." [ FILE SHOULD BE MARKED WITH 25 VALID, 25 INVALID ]
