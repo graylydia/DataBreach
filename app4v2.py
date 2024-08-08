@@ -5,10 +5,12 @@ import matplotlib.pyplot as plt
 from docx import Document
 from io import BytesIO
 from transformers import AutoModelForCausalLM, AutoTokenizer
+from huggingface_hub import login
 import torch
 
 # Set Hugging Face token
-os.environ["HUGGINGFACE_TOKEN"] = "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"
+login(token="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")
+os.environ["HUGGINGFACE_TOKEN"] = "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"
 
 # Load the LLM model and tokenizer
 @st.cache_resource
