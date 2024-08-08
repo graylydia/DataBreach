@@ -8,7 +8,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
 # Set Hugging Face token
-os.environ["HUGGINGFACE_TOKEN"] = "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"
+os.environ["HUGGINGFACE_TOKEN"] = "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"
 
 # Load the LLM model and tokenizer
 @st.cache_resource
